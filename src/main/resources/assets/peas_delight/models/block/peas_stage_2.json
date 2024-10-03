@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "peas_delight:block/peas_stage_2"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "block.peas_delight.peas": "豌豆",
+  "item.peas_delight.peas": "豌豆",
+  "item.peas_delight.peas_burger": "豌豆汉堡",
+  "item.peas_delight.peas_cake": "豌豆饼",
+  "item.peas_delight.peas_can": "塔爷的豆子",
+  "item.peas_delight.peas_can.tooltip": "Comes from the countryside!",
+  "item.peas_delight.peas_flour_cake": "豌豆黄",
+  "item.peas_delight.peas_ice_bar": "豌豆冰棍",
+  "item.peas_delight.peas_ice_cream": "豌豆冰淇淋",
+  "item.peas_delight.peas_milk_tea": "豌豆奶茶",
+  "item.peas_delight.peas_pie": "豌豆派",
+  "item.peas_delight.peas_steamed_stuffed_bun": "豌豆包子",
+  "item.peas_delight.peas_string": "豌豆串",
+  "itemGroup.peas_delight.main": "豌豆乐事"
+}

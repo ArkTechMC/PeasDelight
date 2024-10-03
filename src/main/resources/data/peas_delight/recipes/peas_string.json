@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "peas_delight:peas"
+    },
+    {
+      "item": "peas_delight:peas"
+    },
+    {
+      "item": "peas_delight:peas"
+    },
+    {
+      "item": "minecraft:stick"
+    }
+  ],
+  "result": {
+    "item": "peas_delight:peas_string"
+  }
+}

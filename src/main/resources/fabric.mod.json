@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "peas_delight",
+  "version": "${version}",
+  "name": "Peas Delight",
+  "description": "Peas! Comes from the countryside!",
+  "authors": [
+    "IAFEnvoy"
+  ],
+  "contact": {
+    "sources": "https://github.com/ArkTechMC/PeasDelight"
+  },
+  "license": "All Right Reserved",
+  "icon": "logo.jpg",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "com.iafenvoy.peas.PeasDelight"
+    ],
+    "client": [
+      "com.iafenvoy.peas.PeasDelightClient"
+    ]
+  },
+  "depends": {
+    "fabricloader": "*",
+    "minecraft": "1.20.x",
+    "fabric-api": "*"
+  }
+}

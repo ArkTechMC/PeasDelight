@@ -1,0 +1,16 @@
+{
+  "block.peas_delight.peas": "Peas",
+  "item.peas_delight.peas": "Peas",
+  "item.peas_delight.peas_burger": "Peas Burger",
+  "item.peas_delight.peas_cake": "Peas Cake",
+  "item.peas_delight.peas_can": "Thalleous own brand peas",
+  "item.peas_delight.peas_can.tooltip": "Comes from the countryside!",
+  "item.peas_delight.peas_flour_cake": "Peas Flour Cake",
+  "item.peas_delight.peas_ice_bar": "Peas Ice Bar",
+  "item.peas_delight.peas_ice_cream": "Peas Ice Cream",
+  "item.peas_delight.peas_milk_tea": "Peas Milk Tea",
+  "item.peas_delight.peas_pie": "Peas Pie",
+  "item.peas_delight.peas_steamed_stuffed_bun": "Peas Steamed Stuffed Bun",
+  "item.peas_delight.peas_string": "Peas String",
+  "itemGroup.peas_delight.main": "Peas Delight"
+}

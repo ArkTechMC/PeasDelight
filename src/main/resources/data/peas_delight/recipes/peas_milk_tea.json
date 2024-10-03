@@ -1,0 +1,16 @@
+{
+  "type": "farmersdelight:cooking",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "ingredients": [
+    {
+      "tag": "c:milks"
+    },
+    {
+      "item": "peas_delight:peas"
+    }
+  ],
+  "result": {
+    "item": "peas_delight:peas_milk_tea"
+  }
+}
