@@ -10,10 +10,10 @@
       "item": "minecraft:iron_nugget"
     },
     "P": {
-      "item": "sow:peas"
+      "item": "peas_delight:peas"
     }
   },
   "result": {
-    "item": "sow:peas_can"
+    "item": "peas_delight:peas_can"
   }
 }

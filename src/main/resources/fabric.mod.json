@@ -5,7 +5,8 @@
   "name": "Peas Delight",
   "description": "Peas! Comes from the countryside!",
   "authors": [
-    "IAFEnvoy"
+    "IAFEnvoy",
+    "ColdWindHF"
   ],
   "contact": {
     "sources": "https://github.com/ArkTechMC/PeasDelight"
@@ -24,6 +25,7 @@
   "depends": {
     "fabricloader": "*",
     "minecraft": "1.20.x",
-    "fabric-api": "*"
+    "fabric-api": "*",
+    "farmersdelight": "*"
   }
 }
